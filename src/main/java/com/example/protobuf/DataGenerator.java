@@ -1,4 +1,6 @@
-package com.example.protobuf.comp;
+package com.example.protobuf;
+
+import com.example.protobuf.vo.Person;
 
 import java.util.ArrayList;
 import java.util.List;

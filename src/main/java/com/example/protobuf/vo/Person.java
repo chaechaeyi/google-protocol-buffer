@@ -1,4 +1,4 @@
-package com.example.protobuf.comp;
+package com.example.protobuf.vo;
 
 import lombok.Builder;
 import lombok.Getter;

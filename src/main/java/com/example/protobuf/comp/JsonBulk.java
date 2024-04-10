@@ -1,5 +1,7 @@
 package com.example.protobuf.comp;
 
+import com.example.protobuf.DataGenerator;
+import com.example.protobuf.vo.Person;
 import com.fasterxml.jackson.core.type.TypeReference;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import lombok.extern.slf4j.Slf4j;
